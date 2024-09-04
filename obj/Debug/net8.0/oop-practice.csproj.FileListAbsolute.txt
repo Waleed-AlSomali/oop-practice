@@ -1,0 +1,14 @@
+C:\Users\walee\Desktop\oop-practice\bin\Debug\net8.0\oop-practice.exe
+C:\Users\walee\Desktop\oop-practice\bin\Debug\net8.0\oop-practice.deps.json
+C:\Users\walee\Desktop\oop-practice\bin\Debug\net8.0\oop-practice.runtimeconfig.json
+C:\Users\walee\Desktop\oop-practice\bin\Debug\net8.0\oop-practice.dll
+C:\Users\walee\Desktop\oop-practice\bin\Debug\net8.0\oop-practice.pdb
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.AssemblyInfoInputs.cache
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.AssemblyInfo.cs
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.csproj.CoreCompileInputs.cache
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.dll
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\refint\oop-practice.dll
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.pdb
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\oop-practice.genruntimeconfig.cache
+C:\Users\walee\Desktop\oop-practice\obj\Debug\net8.0\ref\oop-practice.dll
